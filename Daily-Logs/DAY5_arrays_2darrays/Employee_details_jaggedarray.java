@@ -1,5 +1,3 @@
-package com.saileshDSA.basics;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
